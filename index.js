@@ -1,4 +1,5 @@
 const Artist = require('./Artist');
+console.clear();
 
 const raimonda = new Artist('Raimonda', 'EUR');
 
